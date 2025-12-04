@@ -34,8 +34,8 @@ USERNAME: str = "root"
 PASSWORD: str = "calvin"
 
 SUBNETS: List[str] = [
-    "100.98.86",
-    "100.98.70",
+    "192.168.10",
+    "192.158.10",
 ]
 
 IP_LIST: List[str] = [
